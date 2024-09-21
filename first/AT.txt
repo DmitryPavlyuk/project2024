@@ -1,1 +1,2 @@
-
+HELLO WORD
+This is the description for the Artificial Inteligence Group Project Practical Class
