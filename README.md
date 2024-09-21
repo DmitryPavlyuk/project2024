@@ -1,4 +1,5 @@
 # TSI Master Student Project 2024
+
 Developing a notebook-based app for a dummy client
 
 Tools to be used:
