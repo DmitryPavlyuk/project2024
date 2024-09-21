@@ -1,4 +1,4 @@
 # TSI Master Student Project 2024
-Description here
+Description here in details
 
 
